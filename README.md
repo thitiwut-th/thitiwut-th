@@ -1,8 +1,8 @@
-# 👋 Hi, I'm RRT Thiti  
+# 👋 Hi, I'm Thitiwut but you can call me "Riw"
 
-💻 **Software Developer | Web Developer | IoT Enthusiast**  
+💻 **Software Engineer | Test Engineer**  
 📍 Based in Thailand  
-📫 Contact: rrt.thiti@email.com | [LinkedIn](https://linkedin.com/in/yourprofile)  
+📫 Contact: thitiwut.tai@gmail.com | [LinkedIn](www.linkedin.com/in/thitiwut-th)  
 
 ---
 
