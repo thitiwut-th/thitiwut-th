@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm RRT Thiti  
 
-<!--
-**thitiwut-th/thitiwut-th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Developer | Web Developer | IoT Enthusiast**  
+📍 Based in Thailand  
+📫 Contact: rrt.thiti@email.com | [LinkedIn](https://linkedin.com/in/yourprofile)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎯 Passionate about **Web Development, IoT, and Automation**  
+- 🌱 Currently learning **Cloud Computing & Machine Learning**  
+- 🤝 Open to collaborate on interesting **Open Source Projects**  
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** Python, C++, JavaScript  
+- **Web:** HTML, CSS, React, Node.js, Django, Flask  
+- **Data:** Pandas, NumPy, Matplotlib  
+- **Tools & Others:** Git, GitHub, Docker, Linux  
+
+---
+
+## 📂 Featured Projects
+🔹 **Smart IoT Dashboard** – Real-time IoT dashboard with Flask + MQTT  
+🔹 **Portfolio Website** – Responsive website using HTML, CSS, JS  
+🔹 **Data Analysis** – Exploratory data analysis with Python  
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rrtthiti&show_icons=true&theme=default)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rrtthiti&layout=compact)  
