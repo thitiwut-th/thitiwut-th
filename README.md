@@ -2,7 +2,7 @@
 
 💻 **Software Engineer | Test Engineer**  
 📍 Based in Thailand  
-📫 Contact: thitiwut.tai@gmail.com | [LinkedIn](www.linkedin.com/in/thitiwut-th)  
+📫 Contact: thitiwut.tai@gmail.com | [LinkedIn](www.linkedin.com/in/thitiwut-th428)
 
 ---
 
